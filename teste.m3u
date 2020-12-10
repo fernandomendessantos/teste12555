@@ -2,12 +2,3 @@
 
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/images/logo.png" group-title="", Listaiptvbrasil.com 25/11/16
 http://45.43.208.98:1935/deivison7510/deivison7510/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV.png" group-title="CANAL ABERTO",GLOBO
-http://109.236.83.148:8081/live/globo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lut.im/Ds9v1z9Uqj/mwFSloN603filwrV.png" group-title="CANAL ABERTO",GLOBO SP
-http://109.236.83.148:8081/live/sptv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lut.im/sR9hSAYmhq/eyVOxg3CkXmhVvFZ.png" group-title="CANAL ABERTO",REDETV HD
-http://evp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
