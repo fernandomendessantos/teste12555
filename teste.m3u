@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1,iptvtools_10
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/images/logo.png" group-title="", Listaiptvbrasil.com 25/11/16
 http://vod.novotempo.org.br/mp3/VP/VP9201.mp3
